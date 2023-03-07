@@ -1,0 +1,11 @@
+.header{ background-color: #ffffff; 
+width: auto;
+height: 100px;
+}
+.menu{ text-decoration: none; list-style-type: none;
+margin: 0; float: left; padding: 0;
+overflow: hidden;}
+.menu li {
+    float: left;
+padding-left: 20px;}
+.menu li a{ text-decoration: none; color: black;}
